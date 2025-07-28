@@ -1,4 +1,3 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2eb9eb46-51ee-42bd-b6b4-46aedd9676b4" /># ExcelPortfolioVikash
 A collection of Excel-based data analysis and visualization projects
 # Superstore Sales Analysis - Corporate Segment
 
